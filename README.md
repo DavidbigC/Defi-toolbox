@@ -1,6 +1,8 @@
 # DeFi Calculator Toolbox
 
 An interactive Jupyter notebook containing essential DeFi calculators for optimizing trading and liquidity provision strategies.
+Colab link:
+https://colab.research.google.com/drive/19rR1TAGPDkcQcAiFyL7RVsMszc1JyHGi#scrollTo=iAU6Vzwfj4Bg
 
 ## Tools Included
 
