@@ -59,4 +59,3 @@ A tool for calculating optimal token ratios and splits when providing liquidity 
 - ipywidgets
 - decimal
 
-## Installation
